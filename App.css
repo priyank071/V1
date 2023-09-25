@@ -22,22 +22,22 @@ a{
   margin-left: 4vh;
 }
 .main-button{
-  margin-top: 150px;
+  margin-top: 3vh;
   font-size: 17px;
-  background-color:white;
-  color: #1c6758;
+  color: white;
+  border: 1px solid #1c6758;
+  background-color: #1c6758;
   height: 50px;
   width: 180px;
   border-radius: 30px;
-  border: 1px solid #1c6758;
   cursor: pointer;
 }
 .main-button:hover{
-    color: white;
-    background-color: #1c6758;
+  background-color:white;
+  color: #1c6758;
 }
 .body-my{
-  margin-top: 150px;
+  margin-top: 15vh;
 }
 .font{
   font-family: 'Quicksand', sans-serif;
@@ -49,6 +49,11 @@ a{
 .para{
   text-align: center;
    font-size: 25px;
+}
+.para-2{
+  text-align: center;
+  padding: 5vh;
+  font-size: 20px;
 }
 #vision{
   display: inline;
