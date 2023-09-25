@@ -52,8 +52,9 @@ a{
 }
 .para-2{
   text-align: center;
-  padding: 5vh;
+  padding:5vh 23vw;
   font-size: 20px;
+  color: rgb(35, 35, 35);
 }
 #vision{
   display: inline;
@@ -446,3 +447,5 @@ word-spacing: 5px;
 .guide-main{
   margin: 5vw;
 }  
+
+
